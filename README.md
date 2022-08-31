@@ -2,6 +2,8 @@
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins in real estate field
 
+## Branch
+* Branch v1 as sample project to learn Wordpress Hooks: taxonomy, post, category, meta box, filters
 ## Contents
 
 The WordPress Plugin Real Estate Starter includes the following files:
