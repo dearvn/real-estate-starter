@@ -2,7 +2,7 @@
 
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins in real estate field
 
-## Branchs
+## Branches
 * Branch v1 as sample project to learn Wordpress Hooks: taxonomy, post, category, meta box, filters
 
 ## Study Cases in branch v1
