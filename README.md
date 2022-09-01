@@ -5,6 +5,8 @@ A standardized, organized, object-oriented foundation for building high-quality 
 ## Branches
 * Branch v1 as sample project to learn action and filter in Wordpress: taxonomy, post, category, meta box, filters
 * Maybe it will save your time as you begin to learn Wordpress.
+* Demo screen new post
+![Alt text](https://github.com/dearvn/real-estate-starter/raw/main/newpost.png?raw=true "New post")
 
 ## Study Cases in branch v1
 * 1. I want to add custom field to category and show on list in admin
