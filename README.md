@@ -3,7 +3,8 @@
 A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins in real estate field
 
 ## Branches
-* Branch v1 as sample project to learn Wordpress Hooks: taxonomy, post, category, meta box, filters
+* Branch v1 as sample project to learn action and filter in Wordpress: taxonomy, post, category, meta box, filters
+* Maybe it will save your time as you begin to learn Wordpress.
 
 ## Study Cases in branch v1
 * 1. I want to add custom field to category and show on list in admin
