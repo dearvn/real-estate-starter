@@ -1,21 +1,7 @@
 # WordPress Plugin Real Estate Starter 
 
-A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins in real estate field
+A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins
 
-## Branches
-* Branch v1 as sample project to learn action and filter in Wordpress: taxonomy, post, category, meta box, filters
-* Maybe it will save your time as you begin to learn Wordpress.
-* Demo screen new post
-![Alt text](https://github.com/dearvn/real-estate-starter/raw/main/newpost.png?raw=true "New post")
-
-## Study Cases in branch v1
-* 1. I want to add custom field to category and show on list in admin
-* 2. I want to add new post type
-* 3. I want to add custom taxonomy and add custom field to this one
-* 4. I want to add meta box when add/edit custom post type
-* 5. I want to add new filter in list post type
-* 6. I want to create command to execute on terminal
-* and more ...
 
 ## Contents
 
